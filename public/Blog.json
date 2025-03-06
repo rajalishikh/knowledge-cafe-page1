@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "author_img": "https://i.ibb.co.com/ccDLxP00/handsome-standing-man-looking-while-reading-book-114579-79048.jpg",
+    "cover_picture": "https://i.ibb.co.com/KxCMh5RC/development-opportunity-strategy-improvement-word-53876-13771.jpg",
+    "#tags": ["technology", "ai", "innovation"],
+    "heading": "the future of artificial intelligence",
+    "reading_time": 5,
+    "posted_date": "2023-10-01"
+  },
+  {
+    "id": 2,
+    "author_img": "https://i.ibb.co.com/gFdHVG6X/impressed-young-caucasian-superhero-man-optical-glasses-wearing-suit-with-red-cloak-puts-hand-chin-r.jpg",
+    "cover_picture": "https://i.ibb.co.com/ZR63X5Ds/devops-concept-with-copy-spacedevops-it-service-working-agile-environment-concept-with-word-icondev.jpg",
+    "#tags": ["health", "fitness", "wellness"],
+    "heading": "top 10 tips for a healthy lifestyle",
+    "reading_time": 7,
+    "posted_date": "2023-09-25"
+  },
+  {
+    "id": 3,
+    "author_img": "https://i.ibb.co.com/YB568sJ7/portrait-young-man-holding-eyeglasses-against-black-background-1048944-24692202.jpg",
+    "cover_picture": "https://i.ibb.co.com/0RW598pr/glasses-lie-laptop-reflecting-light-from-screen-dark-169016-53056.jpg",
+    "#tags": ["travel", "adventure", "nature"],
+    "heading": "exploring the hidden gems of the amazon",
+    "reading_time": 10,
+    "posted_date": "2023-09-15"
+  },
+  {
+    "id": 4,
+    "author_img": "https://i.ibb.co.com/nNMRm5Zp/teenager-with-glasses-holding-books-1098-4054.jpg",
+    "cover_picture": "https://i.ibb.co.com/C5YWn3PB/programmer-with-3d-computer-green-code-124008-62.jpg",
+    "#tags": ["food", "recipes", "cooking"],
+    "heading": "delicious vegan recipes for beginners",
+    "reading_time": 6,
+    "posted_date": "2023-09-10"
+  },
+  {
+    "id": 5,
+    "author_img": "https://i.ibb.co.com/LXJWBZvp/young-man-looking-away-while-sitting-book-1048944-19531410.jpg",
+    "cover_picture": "https://i.ibb.co.com/WvCKHMgC/technological-facebook-cover-23-2147650457.jpg",
+    "#tags": ["finance", "investing", "savings"],
+    "heading": "how to start investing with little money",
+    "reading_time": 8,
+    "posted_date": "2023-08-20"
+  }
+]
