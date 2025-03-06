@@ -10,7 +10,7 @@ const Blogs = () => {
         .then(data=>setBlog(data))
     },[])
     return (
-        <div>
+        <div className='w-2/3'>
             <p>Length:{blog.length}</p>
             {
                 blog.map((item)=><Blog key={item.id} blog={item} ></Blog>)
