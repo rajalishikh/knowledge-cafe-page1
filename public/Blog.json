@@ -7,7 +7,8 @@
     "tags": ["technology", "ai", "innovation"],
     "heading": "the future of artificial intelligence",
     "reading_time": 5,
-    "posted_date": "2023-10-01"
+    "posted_date": "2023-10-01",
+    "title": "Procedural Programming – Follows a step-by-step approach using procedures and functions (e.g., C, Python)."
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "tags": ["health", "fitness", "wellness"],
     "heading": "top 10 tips for a healthy lifestyle",
     "reading_time": 7,
-    "posted_date": "2023-09-25"
+    "posted_date": "2023-09-25",
+    "title": "Object-Oriented Programming (OOP) – Uses objects and classes to structure code (e.g., Java, C++, Python)."
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "tags": ["travel", "adventure", "nature"],
     "heading": "exploring the hidden gems of the amazon",
     "reading_time": 10,
-    "posted_date": "2023-09-15"
+    "posted_date": "2023-09-15",
+    "title": "Functional Programming – Focuses on pure functions and immutability (e.g., Haskell, Lisp, JavaScript)."
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "tags": ["food", "recipes", "cooking"],
     "heading": "delicious vegan recipes for beginners",
     "reading_time": 6,
-    "posted_date": "2023-09-10"
+    "posted_date": "2023-09-10",
+    "title": "Scripting Programming – Used for automating tasks and web development (e.g., JavaScript, Python, Bash)."
   },
   {
     "id": 5,
@@ -47,6 +51,7 @@
     "tags": ["finance", "investing", "savings"],
     "heading": "how to start investing with little money",
     "reading_time": 8,
-    "posted_date": "2023-08-20"
+    "posted_date": "2023-08-20",
+    "title": "Logic Programming – Uses logical rules and facts to derive conclusions (e.g., Prolog)"
   }
 ]
