@@ -7,7 +7,7 @@ const Header = () => {
         <div>
             <div className='flex justify-between items-center border-b-2 p-4  max-w-7xl mx-auto'>
             <h2 className='text-2xl font-medium'>Knowledge Cafe</h2>
-            <img src={profile} alt="" srcset="" />
+            <img src={profile} alt="" srcSet="" />
           </div>
        </div>
     );

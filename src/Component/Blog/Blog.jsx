@@ -6,12 +6,12 @@ const Blog = ({blog,setBookMark,setTime}) => {
     const{cover_picture,author_img,tags,heading,reading_time,posted_date,Author_Name}=blog;
     return (
         <div className='mb-2 border border-2px'>
-            <img className='h-96 sm:w-full md:w-full lg:w-full mb-2' src={cover_picture} alt="" srcset="" />
+            <img className='h-96 sm:w-full md:w-full lg:w-full mb-2' src={cover_picture} alt="" srcSet="" />
             <div>
                 <div className='flex justify-between items-center'>
                     <div className='flex gap-2 items-center'>
                         <div>
-                        <img className='w-14 rounded-xl h-10' src={author_img} alt="" srcset="" />
+                        <img className='w-14 rounded-xl h-10' src={author_img} alt="" srcSet="" />
                         </div>
                         <div>
                             <p>{Author_Name}</p>
