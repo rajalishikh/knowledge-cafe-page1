@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaBookmark } from "react-icons/fa";
-const Blog = ({blog,setBookMark}) => {
+const Blog = ({blog,setBookMark,setTime}) => {
     
     
     const{cover_picture,author_img,tags,heading,reading_time,posted_date,Author_Name}=blog;
@@ -32,7 +32,9 @@ const Blog = ({blog,setBookMark}) => {
                         tags.map((item,idx)=><a key={idx} href='#'>#{item}</a>)
                     }
                     <br />
-                    <button className='text-blue-700 border-blue-700 border-b-2 text-sm mb-6'>Mark AS read</button>
+                    <button
+                    onClick={()=>setTime(reading_time)} 
+                     className='text-blue-700 border-blue-700 border-b-2 text-sm mb-6'>Mark AS read</button>
                 </div>
 
 
