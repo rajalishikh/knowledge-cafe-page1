@@ -1,9 +1,12 @@
 import React from 'react';
 
-const BookMarks = () => {
+const BookMarks = ({user_name}) => {
+    
     return (
         <div>
-            <h1>Here is my BookMarks </h1>
+            <h1>Here is my BookMarks{user_name.length} </h1>
+           
+            
             
         </div>
     );
