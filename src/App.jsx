@@ -14,10 +14,13 @@ function App() {
    
   }
   // const set time 
-  const handleTime=time=>{
+  const handleTime=(time,id)=>{
     
     setTimeTotal(time_total+time)
-    console.log("Set Time",time_total)
+    console.log("Set Time",id)
+    const remove_bookMark=bookMark.filter(mark=>mark.id!= id)
+    setBookMark2(remove_bookMark)
+    
   }
   return (
     <>
